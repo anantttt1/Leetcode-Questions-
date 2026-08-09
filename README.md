@@ -42,4 +42,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/anantttt1/Leetcode-Questions-/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+## Database
+|  |
+| ------- |
+| [0584-find-customer-referee](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0584-find-customer-referee) |
 <!---LeetCode Topics End-->
