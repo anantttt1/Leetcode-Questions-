@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0485-max-consecutive-ones) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/anantttt1/Leetcode-Questions-/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/anantttt1/Leetcode-Questions-/tree/master/1470-shuffle-the-array) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/anantttt1/Leetcode-Questions-/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1672-richest-customer-wealth](https://github.com/anantttt1/Leetcode-Questions-/tree/master/1672-richest-customer-wealth) |
 ## Two Pointers
 |  |
@@ -37,4 +38,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/anantttt1/Leetcode-Questions-/tree/master/1672-richest-customer-wealth) |
+## Sorting
+|  |
+| ------- |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/anantttt1/Leetcode-Questions-/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 <!---LeetCode Topics End-->
