@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0014-longest-common-prefix) |
 | [0189-rotate-array](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0189-rotate-array) |
 | [0485-max-consecutive-ones](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0485-max-consecutive-ones) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/anantttt1/Leetcode-Questions-/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -50,4 +51,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1148-article-views-i](https://github.com/anantttt1/Leetcode-Questions-/tree/master/1148-article-views-i) |
 | [1683-invalid-tweets](https://github.com/anantttt1/Leetcode-Questions-/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/anantttt1/Leetcode-Questions-/tree/master/1757-recyclable-and-low-fat-products) |
+## String
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0014-longest-common-prefix) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
