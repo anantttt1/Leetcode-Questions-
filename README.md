@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0189-rotate-array) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/anantttt1/Leetcode-Questions-/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Recursion
 |  |
 | ------- |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0018-4sum) |
 | [0189-rotate-array](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0189-rotate-array) |
 | [0485-max-consecutive-ones](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0485-max-consecutive-ones) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/anantttt1/Leetcode-Questions-/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/anantttt1/Leetcode-Questions-/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/anantttt1/Leetcode-Questions-/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/anantttt1/Leetcode-Questions-/tree/master/1470-shuffle-the-array) |
