@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0189-rotate-array) |
 | [0371-sum-of-two-integers](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0371-sum-of-two-integers) |
+| [0537-complex-number-multiplication](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0537-complex-number-multiplication) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/anantttt1/Leetcode-Questions-/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2235-add-two-integers](https://github.com/anantttt1/Leetcode-Questions-/tree/master/2235-add-two-integers) |
 ## Recursion
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0032-longest-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0242-valid-anagram) |
+| [0537-complex-number-multiplication](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0537-complex-number-multiplication) |
 | [0709-to-lower-case](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0709-to-lower-case) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0796-rotate-string](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0796-rotate-string) |
@@ -152,4 +154,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+## Simulation
+|  |
+| ------- |
+| [0537-complex-number-multiplication](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0537-complex-number-multiplication) |
 <!---LeetCode Topics End-->
