@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0029-divide-two-integers) |
+| [0069-sqrtx](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0189-rotate-array) |
 | [0371-sum-of-two-integers](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0371-sum-of-two-integers) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/anantttt1/Leetcode-Questions-/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0069-sqrtx) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/anantttt1/Leetcode-Questions-/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Bit Manipulation
 |  |
@@ -140,4 +142,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0032-longest-valid-parentheses) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
