@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0035-search-insert-position) |
 | [0055-jump-game](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0056-merge-intervals) |
+| [0057-insert-interval](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0057-insert-interval) |
 | [0189-rotate-array](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0189-rotate-array) |
 | [0485-max-consecutive-ones](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0485-max-consecutive-ones) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/anantttt1/Leetcode-Questions-/tree/master/1295-find-numbers-with-even-number-of-digits) |
