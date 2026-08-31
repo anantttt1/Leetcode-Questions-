@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0120-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0189-rotate-array](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0189-rotate-array) |
 | [0485-max-consecutive-ones](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0485-max-consecutive-ones) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/anantttt1/Leetcode-Questions-/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0120-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 ## Stack
 |  |
