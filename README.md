@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1470-shuffle-the-array](https://github.com/anantttt1/Leetcode-Questions-/tree/master/1470-shuffle-the-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/anantttt1/Leetcode-Questions-/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1672-richest-customer-wealth](https://github.com/anantttt1/Leetcode-Questions-/tree/master/1672-richest-customer-wealth) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/anantttt1/Leetcode-Questions-/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Two Pointers
 |  |
 | ------- |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0242-valid-anagram) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/anantttt1/Leetcode-Questions-/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/anantttt1/Leetcode-Questions-/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/anantttt1/Leetcode-Questions-/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Matrix
 |  |
 | ------- |
@@ -227,4 +229,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Sliding Window
+|  |
+| ------- |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/anantttt1/Leetcode-Questions-/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 <!---LeetCode Topics End-->
