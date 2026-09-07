@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0231-power-of-two) |
+| [0292-nim-game](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0292-nim-game) |
 | [0371-sum-of-two-integers](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0371-sum-of-two-integers) |
 | [0537-complex-number-multiplication](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0537-complex-number-multiplication) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/anantttt1/Leetcode-Questions-/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -251,4 +252,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0961-n-repeated-element-in-size-2n-array) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0292-nim-game) |
+## Minimax
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0292-nim-game) |
+## Nim Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0292-nim-game) |
+## Impartial Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
