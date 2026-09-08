@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0258-add-digits) |
 | [0292-nim-game](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0292-nim-game) |
 | [0371-sum-of-two-integers](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0371-sum-of-two-integers) |
 | [0537-complex-number-multiplication](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0537-complex-number-multiplication) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0258-add-digits) |
 | [0537-complex-number-multiplication](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0537-complex-number-multiplication) |
 ## Greedy
 |  |
@@ -275,4 +277,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0292-nim-game) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
