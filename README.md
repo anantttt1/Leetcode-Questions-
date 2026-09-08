@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0292-nim-game) |
 | [0371-sum-of-two-integers](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0371-sum-of-two-integers) |
 | [0537-complex-number-multiplication](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0537-complex-number-multiplication) |
+| [1025-divisor-game](https://github.com/anantttt1/Leetcode-Questions-/tree/master/1025-divisor-game) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/anantttt1/Leetcode-Questions-/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2235-add-two-integers](https://github.com/anantttt1/Leetcode-Questions-/tree/master/2235-add-two-integers) |
 ## Recursion
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+| [1025-divisor-game](https://github.com/anantttt1/Leetcode-Questions-/tree/master/1025-divisor-game) |
 ## Stack
 |  |
 | ------- |
@@ -261,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0292-nim-game) |
+| [1025-divisor-game](https://github.com/anantttt1/Leetcode-Questions-/tree/master/1025-divisor-game) |
 ## Minimax
 |  |
 | ------- |
@@ -269,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0292-nim-game) |
+| [1025-divisor-game](https://github.com/anantttt1/Leetcode-Questions-/tree/master/1025-divisor-game) |
 ## Nim Game
 |  |
 | ------- |
@@ -277,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0292-nim-game) |
+| [1025-divisor-game](https://github.com/anantttt1/Leetcode-Questions-/tree/master/1025-divisor-game) |
 ## Number Theory
 |  |
 | ------- |
