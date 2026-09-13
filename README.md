@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/anantttt1/Leetcode-Questions-/tree/master/1248-count-number-of-nice-subarrays) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/anantttt1/Leetcode-Questions-/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2235-add-two-integers](https://github.com/anantttt1/Leetcode-Questions-/tree/master/2235-add-two-integers) |
+| [3024-type-of-triangle](https://github.com/anantttt1/Leetcode-Questions-/tree/master/3024-type-of-triangle) |
 | [3870-count-commas-in-range](https://github.com/anantttt1/Leetcode-Questions-/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/anantttt1/Leetcode-Questions-/tree/master/3871-count-commas-in-range-ii) |
 ## Recursion
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1652-defuse-the-bomb](https://github.com/anantttt1/Leetcode-Questions-/tree/master/1652-defuse-the-bomb) |
 | [1672-richest-customer-wealth](https://github.com/anantttt1/Leetcode-Questions-/tree/master/1672-richest-customer-wealth) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/anantttt1/Leetcode-Questions-/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [3024-type-of-triangle](https://github.com/anantttt1/Leetcode-Questions-/tree/master/3024-type-of-triangle) |
 ## Two Pointers
 |  |
 | ------- |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1346-check-if-n-and-its-double-exist](https://github.com/anantttt1/Leetcode-Questions-/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/anantttt1/Leetcode-Questions-/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/anantttt1/Leetcode-Questions-/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [3024-type-of-triangle](https://github.com/anantttt1/Leetcode-Questions-/tree/master/3024-type-of-triangle) |
 ## Database
 |  |
 | ------- |
@@ -322,4 +325,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0812-largest-triangle-area](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0812-largest-triangle-area) |
+| [3024-type-of-triangle](https://github.com/anantttt1/Leetcode-Questions-/tree/master/3024-type-of-triangle) |
 <!---LeetCode Topics End-->
