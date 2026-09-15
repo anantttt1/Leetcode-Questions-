@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/anantttt1/Leetcode-Questions-/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1512-number-of-good-pairs](https://github.com/anantttt1/Leetcode-Questions-/tree/master/1512-number-of-good-pairs) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/anantttt1/Leetcode-Questions-/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [1688-count-of-matches-in-tournament](https://github.com/anantttt1/Leetcode-Questions-/tree/master/1688-count-of-matches-in-tournament) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/anantttt1/Leetcode-Questions-/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1837-sum-of-digits-in-base-k](https://github.com/anantttt1/Leetcode-Questions-/tree/master/1837-sum-of-digits-in-base-k) |
 | [2235-add-two-integers](https://github.com/anantttt1/Leetcode-Questions-/tree/master/2235-add-two-integers) |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0258-add-digits) |
 | [0537-complex-number-multiplication](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0537-complex-number-multiplication) |
+| [1688-count-of-matches-in-tournament](https://github.com/anantttt1/Leetcode-Questions-/tree/master/1688-count-of-matches-in-tournament) |
 ## Greedy
 |  |
 | ------- |
