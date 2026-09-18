@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/anantttt1/Leetcode-Questions-/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/anantttt1/Leetcode-Questions-/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1512-number-of-good-pairs](https://github.com/anantttt1/Leetcode-Questions-/tree/master/1512-number-of-good-pairs) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/anantttt1/Leetcode-Questions-/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1763-longest-nice-substring](https://github.com/anantttt1/Leetcode-Questions-/tree/master/1763-longest-nice-substring) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/anantttt1/Leetcode-Questions-/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3663-find-the-least-frequent-digit](https://github.com/anantttt1/Leetcode-Questions-/tree/master/3663-find-the-least-frequent-digit) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1346-check-if-n-and-its-double-exist](https://github.com/anantttt1/Leetcode-Questions-/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/anantttt1/Leetcode-Questions-/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/anantttt1/Leetcode-Questions-/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/anantttt1/Leetcode-Questions-/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [3024-type-of-triangle](https://github.com/anantttt1/Leetcode-Questions-/tree/master/3024-type-of-triangle) |
 ## Database
 |  |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0796-rotate-string) |
 | [1108-defanging-an-ip-address](https://github.com/anantttt1/Leetcode-Questions-/tree/master/1108-defanging-an-ip-address) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/anantttt1/Leetcode-Questions-/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/anantttt1/Leetcode-Questions-/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/anantttt1/Leetcode-Questions-/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1763-longest-nice-substring](https://github.com/anantttt1/Leetcode-Questions-/tree/master/1763-longest-nice-substring) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/anantttt1/Leetcode-Questions-/tree/master/1812-determine-color-of-a-chessboard-square) |
@@ -265,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0055-jump-game) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/anantttt1/Leetcode-Questions-/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/anantttt1/Leetcode-Questions-/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Quicksort
 |  |
