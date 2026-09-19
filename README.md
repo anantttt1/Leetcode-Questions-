@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1812-determine-color-of-a-chessboard-square](https://github.com/anantttt1/Leetcode-Questions-/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/anantttt1/Leetcode-Questions-/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1837-sum-of-digits-in-base-k](https://github.com/anantttt1/Leetcode-Questions-/tree/master/1837-sum-of-digits-in-base-k) |
+| [2169-count-operations-to-obtain-zero](https://github.com/anantttt1/Leetcode-Questions-/tree/master/2169-count-operations-to-obtain-zero) |
 | [2235-add-two-integers](https://github.com/anantttt1/Leetcode-Questions-/tree/master/2235-add-two-integers) |
 | [2843-count-symmetric-integers](https://github.com/anantttt1/Leetcode-Questions-/tree/master/2843-count-symmetric-integers) |
 | [3024-type-of-triangle](https://github.com/anantttt1/Leetcode-Questions-/tree/master/3024-type-of-triangle) |
@@ -268,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0258-add-digits) |
 | [0537-complex-number-multiplication](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0537-complex-number-multiplication) |
 | [1688-count-of-matches-in-tournament](https://github.com/anantttt1/Leetcode-Questions-/tree/master/1688-count-of-matches-in-tournament) |
+| [2169-count-operations-to-obtain-zero](https://github.com/anantttt1/Leetcode-Questions-/tree/master/2169-count-operations-to-obtain-zero) |
 ## Greedy
 |  |
 | ------- |
