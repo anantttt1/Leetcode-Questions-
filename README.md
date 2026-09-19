@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0485-max-consecutive-ones) |
 | [0812-largest-triangle-area](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0812-largest-triangle-area) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [0977-squares-of-a-sorted-array](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/anantttt1/Leetcode-Questions-/tree/master/1051-height-checker) |
 | [1248-count-number-of-nice-subarrays](https://github.com/anantttt1/Leetcode-Questions-/tree/master/1248-count-number-of-nice-subarrays) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/anantttt1/Leetcode-Questions-/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0189-rotate-array) |
+| [0977-squares-of-a-sorted-array](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0977-squares-of-a-sorted-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/anantttt1/Leetcode-Questions-/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/anantttt1/Leetcode-Questions-/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Hash Table
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0075-sort-colors) |
 | [0242-valid-anagram](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0242-valid-anagram) |
+| [0977-squares-of-a-sorted-array](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/anantttt1/Leetcode-Questions-/tree/master/1051-height-checker) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/anantttt1/Leetcode-Questions-/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/anantttt1/Leetcode-Questions-/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
