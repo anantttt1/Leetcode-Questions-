@@ -193,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1763-longest-nice-substring](https://github.com/anantttt1/Leetcode-Questions-/tree/master/1763-longest-nice-substring) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/anantttt1/Leetcode-Questions-/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/anantttt1/Leetcode-Questions-/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [3498-reverse-degree-of-a-string](https://github.com/anantttt1/Leetcode-Questions-/tree/master/3498-reverse-degree-of-a-string) |
 ## Trie
 |  |
 | ------- |
@@ -275,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1389-create-target-array-in-the-given-order](https://github.com/anantttt1/Leetcode-Questions-/tree/master/1389-create-target-array-in-the-given-order) |
 | [1688-count-of-matches-in-tournament](https://github.com/anantttt1/Leetcode-Questions-/tree/master/1688-count-of-matches-in-tournament) |
 | [2169-count-operations-to-obtain-zero](https://github.com/anantttt1/Leetcode-Questions-/tree/master/2169-count-operations-to-obtain-zero) |
+| [3498-reverse-degree-of-a-string](https://github.com/anantttt1/Leetcode-Questions-/tree/master/3498-reverse-degree-of-a-string) |
 ## Greedy
 |  |
 | ------- |
