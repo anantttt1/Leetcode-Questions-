@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1812-determine-color-of-a-chessboard-square](https://github.com/anantttt1/Leetcode-Questions-/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/anantttt1/Leetcode-Questions-/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1837-sum-of-digits-in-base-k](https://github.com/anantttt1/Leetcode-Questions-/tree/master/1837-sum-of-digits-in-base-k) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/anantttt1/Leetcode-Questions-/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2169-count-operations-to-obtain-zero](https://github.com/anantttt1/Leetcode-Questions-/tree/master/2169-count-operations-to-obtain-zero) |
 | [2235-add-two-integers](https://github.com/anantttt1/Leetcode-Questions-/tree/master/2235-add-two-integers) |
 | [2843-count-symmetric-integers](https://github.com/anantttt1/Leetcode-Questions-/tree/master/2843-count-symmetric-integers) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1652-defuse-the-bomb](https://github.com/anantttt1/Leetcode-Questions-/tree/master/1652-defuse-the-bomb) |
 | [1672-richest-customer-wealth](https://github.com/anantttt1/Leetcode-Questions-/tree/master/1672-richest-customer-wealth) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/anantttt1/Leetcode-Questions-/tree/master/1822-sign-of-the-product-of-an-array) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/anantttt1/Leetcode-Questions-/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/anantttt1/Leetcode-Questions-/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3024-type-of-triangle](https://github.com/anantttt1/Leetcode-Questions-/tree/master/3024-type-of-triangle) |
 | [3663-find-the-least-frequent-digit](https://github.com/anantttt1/Leetcode-Questions-/tree/master/3663-find-the-least-frequent-digit) |
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0231-power-of-two) |
 | [0371-sum-of-two-integers](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0371-sum-of-two-integers) |
 | [1763-longest-nice-substring](https://github.com/anantttt1/Leetcode-Questions-/tree/master/1763-longest-nice-substring) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/anantttt1/Leetcode-Questions-/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## String Matching
 |  |
 | ------- |
@@ -391,13 +394,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1534-count-good-triplets](https://github.com/anantttt1/Leetcode-Questions-/tree/master/1534-count-good-triplets) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/anantttt1/Leetcode-Questions-/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2843-count-symmetric-integers](https://github.com/anantttt1/Leetcode-Questions-/tree/master/2843-count-symmetric-integers) |
 ## Combinatorics
 |  |
 | ------- |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/anantttt1/Leetcode-Questions-/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/anantttt1/Leetcode-Questions-/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Memoization
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0509-fibonacci-number) |
+## Backtracking
+|  |
+| ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/anantttt1/Leetcode-Questions-/tree/master/1863-sum-of-all-subset-xor-totals) |
 <!---LeetCode Topics End-->
