@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1672-richest-customer-wealth](https://github.com/anantttt1/Leetcode-Questions-/tree/master/1672-richest-customer-wealth) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/anantttt1/Leetcode-Questions-/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/anantttt1/Leetcode-Questions-/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/anantttt1/Leetcode-Questions-/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/anantttt1/Leetcode-Questions-/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3024-type-of-triangle](https://github.com/anantttt1/Leetcode-Questions-/tree/master/3024-type-of-triangle) |
 | [3663-find-the-least-frequent-digit](https://github.com/anantttt1/Leetcode-Questions-/tree/master/3663-find-the-least-frequent-digit) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0942-di-string-match](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0942-di-string-match) |
 | [0977-squares-of-a-sorted-array](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0977-squares-of-a-sorted-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/anantttt1/Leetcode-Questions-/tree/master/1346-check-if-n-and-its-double-exist) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/anantttt1/Leetcode-Questions-/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/anantttt1/Leetcode-Questions-/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Hash Table
 |  |
@@ -217,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/anantttt1/Leetcode-Questions-/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1763-longest-nice-substring](https://github.com/anantttt1/Leetcode-Questions-/tree/master/1763-longest-nice-substring) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/anantttt1/Leetcode-Questions-/tree/master/1812-determine-color-of-a-chessboard-square) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/anantttt1/Leetcode-Questions-/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/anantttt1/Leetcode-Questions-/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3498-reverse-degree-of-a-string](https://github.com/anantttt1/Leetcode-Questions-/tree/master/3498-reverse-degree-of-a-string) |
 ## Trie
