@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/anantttt1/Leetcode-Questions-/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1512-number-of-good-pairs](https://github.com/anantttt1/Leetcode-Questions-/tree/master/1512-number-of-good-pairs) |
 | [1534-count-good-triplets](https://github.com/anantttt1/Leetcode-Questions-/tree/master/1534-count-good-triplets) |
+| [1539-kth-missing-positive-number](https://github.com/anantttt1/Leetcode-Questions-/tree/master/1539-kth-missing-positive-number) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/anantttt1/Leetcode-Questions-/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1652-defuse-the-bomb](https://github.com/anantttt1/Leetcode-Questions-/tree/master/1652-defuse-the-bomb) |
 | [1672-richest-customer-wealth](https://github.com/anantttt1/Leetcode-Questions-/tree/master/1672-richest-customer-wealth) |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0349-intersection-of-two-arrays) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/anantttt1/Leetcode-Questions-/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/anantttt1/Leetcode-Questions-/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1539-kth-missing-positive-number](https://github.com/anantttt1/Leetcode-Questions-/tree/master/1539-kth-missing-positive-number) |
 ## Bit Manipulation
 |  |
 | ------- |
