@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0942-di-string-match](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0942-di-string-match) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0977-squares-of-a-sorted-array) |
+| [1002-find-common-characters](https://github.com/anantttt1/Leetcode-Questions-/tree/master/1002-find-common-characters) |
 | [1051-height-checker](https://github.com/anantttt1/Leetcode-Questions-/tree/master/1051-height-checker) |
 | [1248-count-number-of-nice-subarrays](https://github.com/anantttt1/Leetcode-Questions-/tree/master/1248-count-number-of-nice-subarrays) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/anantttt1/Leetcode-Questions-/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0929-unique-email-addresses](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0929-unique-email-addresses) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [1002-find-common-characters](https://github.com/anantttt1/Leetcode-Questions-/tree/master/1002-find-common-characters) |
 | [1248-count-number-of-nice-subarrays](https://github.com/anantttt1/Leetcode-Questions-/tree/master/1248-count-number-of-nice-subarrays) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/anantttt1/Leetcode-Questions-/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/anantttt1/Leetcode-Questions-/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0796-rotate-string) |
 | [0929-unique-email-addresses](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0929-unique-email-addresses) |
 | [0942-di-string-match](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0942-di-string-match) |
+| [1002-find-common-characters](https://github.com/anantttt1/Leetcode-Questions-/tree/master/1002-find-common-characters) |
 | [1108-defanging-an-ip-address](https://github.com/anantttt1/Leetcode-Questions-/tree/master/1108-defanging-an-ip-address) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/anantttt1/Leetcode-Questions-/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/anantttt1/Leetcode-Questions-/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
