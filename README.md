@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0023-merge-k-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0024-swap-nodes-in-pairs) |
 | [0092-reverse-linked-list-ii](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0092-reverse-linked-list-ii) |
 | [0203-remove-linked-list-elements](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0203-remove-linked-list-elements) |
@@ -374,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0004-median-of-two-sorted-arrays) |
+| [0023-merge-k-sorted-lists](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0023-merge-k-sorted-lists) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [1763-longest-nice-substring](https://github.com/anantttt1/Leetcode-Questions-/tree/master/1763-longest-nice-substring) |
 ## Binary Search Tree
@@ -461,4 +463,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0022-generate-parentheses) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/anantttt1/Leetcode-Questions-/tree/master/1863-sum-of-all-subset-xor-totals) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0023-merge-k-sorted-lists) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0023-merge-k-sorted-lists) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
