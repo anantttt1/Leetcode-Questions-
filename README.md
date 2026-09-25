@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1002-find-common-characters](https://github.com/anantttt1/Leetcode-Questions-/tree/master/1002-find-common-characters) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/anantttt1/Leetcode-Questions-/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1051-height-checker](https://github.com/anantttt1/Leetcode-Questions-/tree/master/1051-height-checker) |
+| [1089-duplicate-zeros](https://github.com/anantttt1/Leetcode-Questions-/tree/master/1089-duplicate-zeros) |
 | [1122-relative-sort-array](https://github.com/anantttt1/Leetcode-Questions-/tree/master/1122-relative-sort-array) |
 | [1184-distance-between-bus-stops](https://github.com/anantttt1/Leetcode-Questions-/tree/master/1184-distance-between-bus-stops) |
 | [1248-count-number-of-nice-subarrays](https://github.com/anantttt1/Leetcode-Questions-/tree/master/1248-count-number-of-nice-subarrays) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0349-intersection-of-two-arrays) |
 | [0942-di-string-match](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0942-di-string-match) |
 | [0977-squares-of-a-sorted-array](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0977-squares-of-a-sorted-array) |
+| [1089-duplicate-zeros](https://github.com/anantttt1/Leetcode-Questions-/tree/master/1089-duplicate-zeros) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/anantttt1/Leetcode-Questions-/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/anantttt1/Leetcode-Questions-/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/anantttt1/Leetcode-Questions-/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
