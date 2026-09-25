@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0929-unique-email-addresses](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0929-unique-email-addresses) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1002-find-common-characters](https://github.com/anantttt1/Leetcode-Questions-/tree/master/1002-find-common-characters) |
+| [1096-brace-expansion-ii](https://github.com/anantttt1/Leetcode-Questions-/tree/master/1096-brace-expansion-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/anantttt1/Leetcode-Questions-/tree/master/1248-count-number-of-nice-subarrays) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/anantttt1/Leetcode-Questions-/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/anantttt1/Leetcode-Questions-/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0561-array-partition) |
 | [0977-squares-of-a-sorted-array](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/anantttt1/Leetcode-Questions-/tree/master/1051-height-checker) |
+| [1096-brace-expansion-ii](https://github.com/anantttt1/Leetcode-Questions-/tree/master/1096-brace-expansion-ii) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/anantttt1/Leetcode-Questions-/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/anantttt1/Leetcode-Questions-/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/anantttt1/Leetcode-Questions-/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
@@ -234,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0942-di-string-match](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0942-di-string-match) |
 | [1002-find-common-characters](https://github.com/anantttt1/Leetcode-Questions-/tree/master/1002-find-common-characters) |
 | [1003-check-if-word-is-valid-after-substitutions](https://github.com/anantttt1/Leetcode-Questions-/tree/master/1003-check-if-word-is-valid-after-substitutions) |
+| [1096-brace-expansion-ii](https://github.com/anantttt1/Leetcode-Questions-/tree/master/1096-brace-expansion-ii) |
 | [1108-defanging-an-ip-address](https://github.com/anantttt1/Leetcode-Questions-/tree/master/1108-defanging-an-ip-address) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/anantttt1/Leetcode-Questions-/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/anantttt1/Leetcode-Questions-/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -315,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0032-longest-valid-parentheses) |
 | [1003-check-if-word-is-valid-after-substitutions](https://github.com/anantttt1/Leetcode-Questions-/tree/master/1003-check-if-word-is-valid-after-substitutions) |
+| [1096-brace-expansion-ii](https://github.com/anantttt1/Leetcode-Questions-/tree/master/1096-brace-expansion-ii) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/anantttt1/Leetcode-Questions-/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
 |  |
@@ -374,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0104-maximum-depth-of-binary-tree) |
+| [1096-brace-expansion-ii](https://github.com/anantttt1/Leetcode-Questions-/tree/master/1096-brace-expansion-ii) |
 ## Binary Tree
 |  |
 | ------- |
@@ -473,6 +478,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0022-generate-parentheses) |
+| [1096-brace-expansion-ii](https://github.com/anantttt1/Leetcode-Questions-/tree/master/1096-brace-expansion-ii) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/anantttt1/Leetcode-Questions-/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Heap (Priority Queue)
 |  |
