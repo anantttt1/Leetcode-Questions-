@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0029-divide-two-integers) |
 | [0066-plus-one](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0231-power-of-two) |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0032-longest-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0424-longest-repeating-character-replacement) |
@@ -302,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0231-power-of-two) |
 | [0371-sum-of-two-integers](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0371-sum-of-two-integers) |
 | [1763-longest-nice-substring](https://github.com/anantttt1/Leetcode-Questions-/tree/master/1763-longest-nice-substring) |
@@ -366,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0258-add-digits) |
 | [0537-complex-number-multiplication](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0537-complex-number-multiplication) |
 | [1389-create-target-array-in-the-given-order](https://github.com/anantttt1/Leetcode-Questions-/tree/master/1389-create-target-array-in-the-given-order) |
