@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0908-smallest-range-i](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0908-smallest-range-i) |
 | [1025-divisor-game](https://github.com/anantttt1/Leetcode-Questions-/tree/master/1025-divisor-game) |
 | [1248-count-number-of-nice-subarrays](https://github.com/anantttt1/Leetcode-Questions-/tree/master/1248-count-number-of-nice-subarrays) |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/anantttt1/Leetcode-Questions-/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/anantttt1/Leetcode-Questions-/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/anantttt1/Leetcode-Questions-/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1323-maximum-69-number](https://github.com/anantttt1/Leetcode-Questions-/tree/master/1323-maximum-69-number) |
