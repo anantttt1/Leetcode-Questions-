@@ -280,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/anantttt1/Leetcode-Questions-/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/anantttt1/Leetcode-Questions-/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/anantttt1/Leetcode-Questions-/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1678-goal-parser-interpretation](https://github.com/anantttt1/Leetcode-Questions-/tree/master/1678-goal-parser-interpretation) |
 | [1763-longest-nice-substring](https://github.com/anantttt1/Leetcode-Questions-/tree/master/1763-longest-nice-substring) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/anantttt1/Leetcode-Questions-/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/anantttt1/Leetcode-Questions-/tree/master/1812-determine-color-of-a-chessboard-square) |
