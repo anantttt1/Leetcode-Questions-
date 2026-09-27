@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3024-type-of-triangle](https://github.com/anantttt1/Leetcode-Questions-/tree/master/3024-type-of-triangle) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/anantttt1/Leetcode-Questions-/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/anantttt1/Leetcode-Questions-/tree/master/3232-find-if-digit-game-can-be-won) |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/anantttt1/Leetcode-Questions-/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/anantttt1/Leetcode-Questions-/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/anantttt1/Leetcode-Questions-/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/anantttt1/Leetcode-Questions-/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3024-type-of-triangle](https://github.com/anantttt1/Leetcode-Questions-/tree/master/3024-type-of-triangle) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/anantttt1/Leetcode-Questions-/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/anantttt1/Leetcode-Questions-/tree/master/3232-find-if-digit-game-can-be-won) |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/anantttt1/Leetcode-Questions-/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/anantttt1/Leetcode-Questions-/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3663-find-the-least-frequent-digit](https://github.com/anantttt1/Leetcode-Questions-/tree/master/3663-find-the-least-frequent-digit) |
 | [3697-compute-decimal-representation](https://github.com/anantttt1/Leetcode-Questions-/tree/master/3697-compute-decimal-representation) |
@@ -378,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1688-count-of-matches-in-tournament](https://github.com/anantttt1/Leetcode-Questions-/tree/master/1688-count-of-matches-in-tournament) |
 | [2169-count-operations-to-obtain-zero](https://github.com/anantttt1/Leetcode-Questions-/tree/master/2169-count-operations-to-obtain-zero) |
 | [2739-total-distance-traveled](https://github.com/anantttt1/Leetcode-Questions-/tree/master/2739-total-distance-traveled) |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/anantttt1/Leetcode-Questions-/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/anantttt1/Leetcode-Questions-/tree/master/3498-reverse-degree-of-a-string) |
 ## Greedy
 |  |
@@ -524,6 +527,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0023-merge-k-sorted-lists) |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/anantttt1/Leetcode-Questions-/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 ## Merge Sort
 |  |
 | ------- |
