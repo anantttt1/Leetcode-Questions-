@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0057-insert-interval](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0075-sort-colors) |
+| [0079-word-search](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0079-word-search) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0120-triangle) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0079-word-search](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0079-word-search) |
 | [1672-richest-customer-wealth](https://github.com/anantttt1/Leetcode-Questions-/tree/master/1672-richest-customer-wealth) |
 ## Sorting
 |  |
@@ -256,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0032-longest-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0067-add-binary) |
+| [0079-word-search](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0424-longest-repeating-character-replacement) |
@@ -419,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0079-word-search) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0104-maximum-depth-of-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/anantttt1/Leetcode-Questions-/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Breadth-First Search
@@ -529,6 +533,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0022-generate-parentheses) |
 | [0077-combinations](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0077-combinations) |
+| [0079-word-search](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0079-word-search) |
 | [1096-brace-expansion-ii](https://github.com/anantttt1/Leetcode-Questions-/tree/master/1096-brace-expansion-ii) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/anantttt1/Leetcode-Questions-/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Heap (Priority Queue)
