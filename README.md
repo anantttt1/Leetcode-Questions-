@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3024-type-of-triangle](https://github.com/anantttt1/Leetcode-Questions-/tree/master/3024-type-of-triangle) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/anantttt1/Leetcode-Questions-/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/anantttt1/Leetcode-Questions-/tree/master/3232-find-if-digit-game-can-be-won) |
+| [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/anantttt1/Leetcode-Questions-/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/anantttt1/Leetcode-Questions-/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/anantttt1/Leetcode-Questions-/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3663-find-the-least-frequent-digit](https://github.com/anantttt1/Leetcode-Questions-/tree/master/3663-find-the-least-frequent-digit) |
@@ -273,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/anantttt1/Leetcode-Questions-/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/anantttt1/Leetcode-Questions-/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/anantttt1/Leetcode-Questions-/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/anantttt1/Leetcode-Questions-/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
 | [3498-reverse-degree-of-a-string](https://github.com/anantttt1/Leetcode-Questions-/tree/master/3498-reverse-degree-of-a-string) |
 ## Trie
 |  |
