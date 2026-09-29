@@ -23,7 +23,7 @@ class Solution {
                             dp[i][j][newBalance] = true;
                         }
                     }
-                    if(j>0 && dp[i][j-1][balance]){
+                    if(j>0&&dp[i][j-1][balance]){
                         int newBalance=balance+change;
                         if(newBalance>=0){
                             dp[i][j][newBalance]=true;
