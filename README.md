@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1822-sign-of-the-product-of-an-array](https://github.com/anantttt1/Leetcode-Questions-/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/anantttt1/Leetcode-Questions-/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/anantttt1/Leetcode-Questions-/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/anantttt1/Leetcode-Questions-/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2073-time-needed-to-buy-tickets](https://github.com/anantttt1/Leetcode-Questions-/tree/master/2073-time-needed-to-buy-tickets) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/anantttt1/Leetcode-Questions-/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/anantttt1/Leetcode-Questions-/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/anantttt1/Leetcode-Questions-/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/anantttt1/Leetcode-Questions-/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/anantttt1/Leetcode-Questions-/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/anantttt1/Leetcode-Questions-/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [3024-type-of-triangle](https://github.com/anantttt1/Leetcode-Questions-/tree/master/3024-type-of-triangle) |
 ## Database
 |  |
@@ -325,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1122-relative-sort-array](https://github.com/anantttt1/Leetcode-Questions-/tree/master/1122-relative-sort-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/anantttt1/Leetcode-Questions-/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/anantttt1/Leetcode-Questions-/tree/master/1512-number-of-good-pairs) |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/anantttt1/Leetcode-Questions-/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [3663-find-the-least-frequent-digit](https://github.com/anantttt1/Leetcode-Questions-/tree/master/3663-find-the-least-frequent-digit) |
 ## Binary Search
 |  |
@@ -436,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0942-di-string-match](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0942-di-string-match) |
 | [1323-maximum-69-number](https://github.com/anantttt1/Leetcode-Questions-/tree/master/1323-maximum-69-number) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/anantttt1/Leetcode-Questions-/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/anantttt1/Leetcode-Questions-/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/anantttt1/Leetcode-Questions-/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Quicksort
 |  |
