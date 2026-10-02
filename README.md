@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0069-sqrtx) |
+| [0089-gray-code](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0089-gray-code) |
 | [0189-rotate-array](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0258-add-digits) |
@@ -349,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0067-add-binary) |
+| [0089-gray-code](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0089-gray-code) |
 | [0231-power-of-two](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0231-power-of-two) |
 | [0371-sum-of-two-integers](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0371-sum-of-two-integers) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/anantttt1/Leetcode-Questions-/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -579,6 +581,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0022-generate-parentheses) |
 | [0077-combinations](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0077-combinations) |
 | [0079-word-search](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0079-word-search) |
+| [0089-gray-code](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0089-gray-code) |
 | [1096-brace-expansion-ii](https://github.com/anantttt1/Leetcode-Questions-/tree/master/1096-brace-expansion-ii) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/anantttt1/Leetcode-Questions-/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Heap (Priority Queue)
