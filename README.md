@@ -297,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0709-to-lower-case](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0709-to-lower-case) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0796-rotate-string](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0796-rotate-string) |
+| [0856-score-of-parentheses](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0856-score-of-parentheses) |
 | [0929-unique-email-addresses](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0929-unique-email-addresses) |
 | [0942-di-string-match](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0942-di-string-match) |
 | [1002-find-common-characters](https://github.com/anantttt1/Leetcode-Questions-/tree/master/1002-find-common-characters) |
@@ -403,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0856-score-of-parentheses) |
 | [1003-check-if-word-is-valid-after-substitutions](https://github.com/anantttt1/Leetcode-Questions-/tree/master/1003-check-if-word-is-valid-after-substitutions) |
 | [1096-brace-expansion-ii](https://github.com/anantttt1/Leetcode-Questions-/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/anantttt1/Leetcode-Questions-/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -416,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0856-score-of-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/anantttt1/Leetcode-Questions-/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/anantttt1/Leetcode-Questions-/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/anantttt1/Leetcode-Questions-/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
