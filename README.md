@@ -289,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0242-valid-anagram) |
+| [0301-remove-invalid-parentheses](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0301-remove-invalid-parentheses) |
 | [0424-longest-repeating-character-replacement](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0424-longest-repeating-character-replacement) |
 | [0504-base-7](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0504-base-7) |
 | [0520-detect-capital](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0520-detect-capital) |
@@ -496,6 +497,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0301-remove-invalid-parentheses](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/anantttt1/Leetcode-Questions-/tree/master/1096-brace-expansion-ii) |
 ## Binary Tree
 |  |
@@ -606,6 +608,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0077-combinations](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0077-combinations) |
 | [0079-word-search](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0079-word-search) |
 | [0089-gray-code](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0089-gray-code) |
+| [0301-remove-invalid-parentheses](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/anantttt1/Leetcode-Questions-/tree/master/1096-brace-expansion-ii) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/anantttt1/Leetcode-Questions-/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Heap (Priority Queue)
