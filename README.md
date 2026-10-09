@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0485-max-consecutive-ones) |
 | [0561-array-partition](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0561-array-partition) |
 | [0812-largest-triangle-area](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0812-largest-triangle-area) |
+| [0875-koko-eating-bananas](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0875-koko-eating-bananas) |
 | [0908-smallest-range-i](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0908-smallest-range-i) |
 | [0929-unique-email-addresses](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0929-unique-email-addresses) |
 | [0942-di-string-match](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0942-di-string-match) |
@@ -349,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0069-sqrtx) |
 | [0349-intersection-of-two-arrays](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0349-intersection-of-two-arrays) |
+| [0875-koko-eating-bananas](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/anantttt1/Leetcode-Questions-/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/anantttt1/Leetcode-Questions-/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/anantttt1/Leetcode-Questions-/tree/master/1346-check-if-n-and-its-double-exist) |
