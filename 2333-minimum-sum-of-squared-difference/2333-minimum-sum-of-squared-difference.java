@@ -5,7 +5,6 @@ class Solution {
         int[] buckets = new int[100001]; 
         long sum = 0;
         int maxDiff = 0;
-        
         for (int i = 0; i < n; i++) {
             int diff = Math.abs(nums1[i] - nums2[i]);
             if (diff > 0) {
@@ -14,9 +13,7 @@ class Solution {
                 maxDiff = Math.max(maxDiff, diff);
             }
         }
-        
         if (sum <= k) return 0;
-        
         for (int d = maxDiff; d > 0 && k > 0; d--) {
             if (buckets[d] == 0) continue;
             long needed = (long) buckets[d];
@@ -31,7 +28,6 @@ class Solution {
                 k = 0;
             }
         }
-        
         long ans = 0;
         for (int d = 1; d <= maxDiff; d++) {
             if (buckets[d] > 0) {
