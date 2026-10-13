@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3345-smallest-divisible-digit-product-i](https://github.com/anantttt1/Leetcode-Questions-/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/anantttt1/Leetcode-Questions-/tree/master/3370-smallest-number-with-all-set-bits) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/anantttt1/Leetcode-Questions-/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3536-maximum-product-of-two-digits](https://github.com/anantttt1/Leetcode-Questions-/tree/master/3536-maximum-product-of-two-digits) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/anantttt1/Leetcode-Questions-/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/anantttt1/Leetcode-Questions-/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3663-find-the-least-frequent-digit](https://github.com/anantttt1/Leetcode-Questions-/tree/master/3663-find-the-least-frequent-digit) |
@@ -261,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/anantttt1/Leetcode-Questions-/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/anantttt1/Leetcode-Questions-/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3024-type-of-triangle](https://github.com/anantttt1/Leetcode-Questions-/tree/master/3024-type-of-triangle) |
+| [3536-maximum-product-of-two-digits](https://github.com/anantttt1/Leetcode-Questions-/tree/master/3536-maximum-product-of-two-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/anantttt1/Leetcode-Questions-/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Database
 |  |
