@@ -208,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0242-valid-anagram](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0349-intersection-of-two-arrays) |
 | [0424-longest-repeating-character-replacement](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0424-longest-repeating-character-replacement) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -300,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0290-word-pattern) |
 | [0301-remove-invalid-parentheses](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0301-remove-invalid-parentheses) |
 | [0424-longest-repeating-character-replacement](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0424-longest-repeating-character-replacement) |
 | [0504-base-7](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0504-base-7) |
