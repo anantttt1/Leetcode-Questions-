@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0561-array-partition) |
 | [0812-largest-triangle-area](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0812-largest-triangle-area) |
 | [0875-koko-eating-bananas](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0875-koko-eating-bananas) |
+| [0896-monotonic-array](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0896-monotonic-array) |
 | [0908-smallest-range-i](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0908-smallest-range-i) |
 | [0929-unique-email-addresses](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0929-unique-email-addresses) |
 | [0942-di-string-match](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0942-di-string-match) |
