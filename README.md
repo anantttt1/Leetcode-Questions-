@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0368-largest-divisible-subset) |
 | [0414-third-maximum-number](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0456-132-pattern](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0456-132-pattern) |
 | [0485-max-consecutive-ones](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0485-max-consecutive-ones) |
 | [0561-array-partition](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0561-array-partition) |
 | [0812-largest-triangle-area](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0812-largest-triangle-area) |
@@ -375,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0069-sqrtx) |
 | [0349-intersection-of-two-arrays](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0349-intersection-of-two-arrays) |
+| [0456-132-pattern](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0456-132-pattern) |
 | [0875-koko-eating-bananas](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/anantttt1/Leetcode-Questions-/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/anantttt1/Leetcode-Questions-/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -439,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0032-longest-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0094-binary-tree-inorder-traversal) |
+| [0456-132-pattern](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0456-132-pattern) |
 | [0678-valid-parenthesis-string](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -700,4 +703,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/anantttt1/Leetcode-Questions-/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0456-132-pattern](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0456-132-pattern) |
+## Ordered Set
+|  |
+| ------- |
+| [0456-132-pattern](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0456-132-pattern) |
 <!---LeetCode Topics End-->
