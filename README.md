@@ -188,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3432-count-partitions-with-even-sum-difference](https://github.com/anantttt1/Leetcode-Questions-/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/anantttt1/Leetcode-Questions-/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/anantttt1/Leetcode-Questions-/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/anantttt1/Leetcode-Questions-/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3663-find-the-least-frequent-digit](https://github.com/anantttt1/Leetcode-Questions-/tree/master/3663-find-the-least-frequent-digit) |
 | [3697-compute-decimal-representation](https://github.com/anantttt1/Leetcode-Questions-/tree/master/3697-compute-decimal-representation) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/anantttt1/Leetcode-Questions-/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -406,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1863-sum-of-all-subset-xor-totals](https://github.com/anantttt1/Leetcode-Questions-/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/anantttt1/Leetcode-Questions-/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/anantttt1/Leetcode-Questions-/tree/master/3370-smallest-number-with-all-set-bits) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/anantttt1/Leetcode-Questions-/tree/master/3644-maximum-k-to-sort-a-permutation) |
 ## String Matching
 |  |
 | ------- |
