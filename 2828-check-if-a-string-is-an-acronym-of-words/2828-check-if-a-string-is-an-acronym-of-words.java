@@ -1,13 +1,18 @@
+// import java.util.List;
 class Solution {
     public boolean isAcronym(List<String> words, String s) {
-        if(words.size() != s.length()){
+        if (words.size() != s.length()) {
             return false;
         }
-        for(int i= 0;i < words.size();i++){
-            if(words.get(i).charAt(0) != s.charAt(i)){
-                return false;
-            }
+        return checkAcronymRecursive(words, s, 0);
+    }
+    private boolean checkAcronymRecursive(List<String> words, String s, int index) {
+        if (index == words.size()) {
+            return true;
         }
-        return true;
+        if (words.get(index).charAt(0) != s.charAt(index)) {
+            return false;
+        }
+        return checkAcronymRecursive(words, s, index + 1);
     }
 }
