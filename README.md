@@ -176,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/anantttt1/Leetcode-Questions-/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/anantttt1/Leetcode-Questions-/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/anantttt1/Leetcode-Questions-/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/anantttt1/Leetcode-Questions-/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/anantttt1/Leetcode-Questions-/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/anantttt1/Leetcode-Questions-/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/anantttt1/Leetcode-Questions-/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
@@ -359,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/anantttt1/Leetcode-Questions-/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/anantttt1/Leetcode-Questions-/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/anantttt1/Leetcode-Questions-/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/anantttt1/Leetcode-Questions-/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/anantttt1/Leetcode-Questions-/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
 | [3280-convert-date-to-binary](https://github.com/anantttt1/Leetcode-Questions-/tree/master/3280-convert-date-to-binary) |
 | [3498-reverse-degree-of-a-string](https://github.com/anantttt1/Leetcode-Questions-/tree/master/3498-reverse-degree-of-a-string) |
