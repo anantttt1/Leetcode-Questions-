@@ -232,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0242-valid-anagram](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0290-word-pattern) |
+| [0299-bulls-and-cows](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0299-bulls-and-cows) |
 | [0349-intersection-of-two-arrays](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0349-intersection-of-two-arrays) |
 | [0424-longest-repeating-character-replacement](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0424-longest-repeating-character-replacement) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -335,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0290-word-pattern) |
+| [0299-bulls-and-cows](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0299-bulls-and-cows) |
 | [0301-remove-invalid-parentheses](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0301-remove-invalid-parentheses) |
 | [0424-longest-repeating-character-replacement](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0424-longest-repeating-character-replacement) |
 | [0504-base-7](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0504-base-7) |
@@ -385,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0299-bulls-and-cows](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0299-bulls-and-cows) |
 | [0561-array-partition](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0561-array-partition) |
 | [1051-height-checker](https://github.com/anantttt1/Leetcode-Questions-/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/anantttt1/Leetcode-Questions-/tree/master/1122-relative-sort-array) |
