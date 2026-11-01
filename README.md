@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0292-nim-game) |
 | [0368-largest-divisible-subset](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0368-largest-divisible-subset) |
 | [0371-sum-of-two-integers](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0371-sum-of-two-integers) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0492-construct-the-rectangle](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0492-construct-the-rectangle) |
 | [0504-base-7](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0504-base-7) |
 | [0509-fibonacci-number](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0509-fibonacci-number) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0368-largest-divisible-subset) |
 | [0414-third-maximum-number](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0456-132-pattern](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0456-132-pattern) |
 | [0485-max-consecutive-ones](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0485-max-consecutive-ones) |
 | [0561-array-partition](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0561-array-partition) |
