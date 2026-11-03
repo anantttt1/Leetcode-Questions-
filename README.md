@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0023-merge-k-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0024-swap-nodes-in-pairs) |
 | [0092-reverse-linked-list-ii](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0092-reverse-linked-list-ii) |
+| [0160-intersection-of-two-linked-lists](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0206-reverse-linked-list) |
 ## Math
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0125-valid-palindrome) |
+| [0160-intersection-of-two-linked-lists](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0189-rotate-array) |
 | [0349-intersection-of-two-arrays](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0349-intersection-of-two-arrays) |
 | [0942-di-string-match](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0942-di-string-match) |
@@ -236,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0160-intersection-of-two-linked-lists](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0160-intersection-of-two-linked-lists) |
 | [0242-valid-anagram](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0290-word-pattern) |
 | [0299-bulls-and-cows](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0299-bulls-and-cows) |
