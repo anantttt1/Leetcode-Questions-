@@ -398,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2000-reverse-prefix-of-word](https://github.com/anantttt1/Leetcode-Questions-/tree/master/2000-reverse-prefix-of-word) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/anantttt1/Leetcode-Questions-/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/anantttt1/Leetcode-Questions-/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/anantttt1/Leetcode-Questions-/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/anantttt1/Leetcode-Questions-/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2409-count-days-spent-together](https://github.com/anantttt1/Leetcode-Questions-/tree/master/2409-count-days-spent-together) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/anantttt1/Leetcode-Questions-/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -552,6 +553,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/anantttt1/Leetcode-Questions-/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2073-time-needed-to-buy-tickets](https://github.com/anantttt1/Leetcode-Questions-/tree/master/2073-time-needed-to-buy-tickets) |
 | [2169-count-operations-to-obtain-zero](https://github.com/anantttt1/Leetcode-Questions-/tree/master/2169-count-operations-to-obtain-zero) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/anantttt1/Leetcode-Questions-/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2739-total-distance-traveled](https://github.com/anantttt1/Leetcode-Questions-/tree/master/2739-total-distance-traveled) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/anantttt1/Leetcode-Questions-/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/anantttt1/Leetcode-Questions-/tree/master/3498-reverse-degree-of-a-string) |
