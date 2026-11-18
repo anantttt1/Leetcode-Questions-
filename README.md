@@ -405,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/anantttt1/Leetcode-Questions-/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/anantttt1/Leetcode-Questions-/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/anantttt1/Leetcode-Questions-/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/anantttt1/Leetcode-Questions-/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/anantttt1/Leetcode-Questions-/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
 | [3280-convert-date-to-binary](https://github.com/anantttt1/Leetcode-Questions-/tree/master/3280-convert-date-to-binary) |
 | [3498-reverse-degree-of-a-string](https://github.com/anantttt1/Leetcode-Questions-/tree/master/3498-reverse-degree-of-a-string) |
