@@ -412,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/anantttt1/Leetcode-Questions-/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/anantttt1/Leetcode-Questions-/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/anantttt1/Leetcode-Questions-/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
+| [3174-clear-digits](https://github.com/anantttt1/Leetcode-Questions-/tree/master/3174-clear-digits) |
 | [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/anantttt1/Leetcode-Questions-/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
 | [3280-convert-date-to-binary](https://github.com/anantttt1/Leetcode-Questions-/tree/master/3280-convert-date-to-binary) |
 | [3498-reverse-degree-of-a-string](https://github.com/anantttt1/Leetcode-Questions-/tree/master/3498-reverse-degree-of-a-string) |
@@ -530,6 +531,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/anantttt1/Leetcode-Questions-/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/anantttt1/Leetcode-Questions-/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2000-reverse-prefix-of-word](https://github.com/anantttt1/Leetcode-Questions-/tree/master/2000-reverse-prefix-of-word) |
+| [3174-clear-digits](https://github.com/anantttt1/Leetcode-Questions-/tree/master/3174-clear-digits) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/anantttt1/Leetcode-Questions-/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Bracket Sequences
 |  |
@@ -569,6 +571,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2169-count-operations-to-obtain-zero](https://github.com/anantttt1/Leetcode-Questions-/tree/master/2169-count-operations-to-obtain-zero) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/anantttt1/Leetcode-Questions-/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2739-total-distance-traveled](https://github.com/anantttt1/Leetcode-Questions-/tree/master/2739-total-distance-traveled) |
+| [3174-clear-digits](https://github.com/anantttt1/Leetcode-Questions-/tree/master/3174-clear-digits) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/anantttt1/Leetcode-Questions-/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/anantttt1/Leetcode-Questions-/tree/master/3498-reverse-degree-of-a-string) |
 ## Greedy
