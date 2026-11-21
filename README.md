@@ -208,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3232-find-if-digit-game-can-be-won](https://github.com/anantttt1/Leetcode-Questions-/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/anantttt1/Leetcode-Questions-/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/anantttt1/Leetcode-Questions-/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/anantttt1/Leetcode-Questions-/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3364-minimum-positive-sum-subarray](https://github.com/anantttt1/Leetcode-Questions-/tree/master/3364-minimum-positive-sum-subarray) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/anantttt1/Leetcode-Questions-/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/anantttt1/Leetcode-Questions-/tree/master/3432-count-partitions-with-even-sum-difference) |
@@ -284,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/anantttt1/Leetcode-Questions-/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/anantttt1/Leetcode-Questions-/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/anantttt1/Leetcode-Questions-/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/anantttt1/Leetcode-Questions-/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/anantttt1/Leetcode-Questions-/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/anantttt1/Leetcode-Questions-/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3663-find-the-least-frequent-digit](https://github.com/anantttt1/Leetcode-Questions-/tree/master/3663-find-the-least-frequent-digit) |
@@ -415,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3174-clear-digits](https://github.com/anantttt1/Leetcode-Questions-/tree/master/3174-clear-digits) |
 | [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/anantttt1/Leetcode-Questions-/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
 | [3280-convert-date-to-binary](https://github.com/anantttt1/Leetcode-Questions-/tree/master/3280-convert-date-to-binary) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/anantttt1/Leetcode-Questions-/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3498-reverse-degree-of-a-string](https://github.com/anantttt1/Leetcode-Questions-/tree/master/3498-reverse-degree-of-a-string) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/anantttt1/Leetcode-Questions-/tree/master/3863-minimum-operations-to-sort-a-string) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/anantttt1/Leetcode-Questions-/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
@@ -617,6 +620,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/anantttt1/Leetcode-Questions-/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/anantttt1/Leetcode-Questions-/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/anantttt1/Leetcode-Questions-/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/anantttt1/Leetcode-Questions-/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -628,6 +632,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1254-number-of-closed-islands](https://github.com/anantttt1/Leetcode-Questions-/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/anantttt1/Leetcode-Questions-/tree/master/1267-count-servers-that-communicate) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/anantttt1/Leetcode-Questions-/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/anantttt1/Leetcode-Questions-/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/anantttt1/Leetcode-Questions-/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Breadth-First Search
 |  |
